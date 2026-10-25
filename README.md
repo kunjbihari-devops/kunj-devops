@@ -3,24 +3,8 @@
 <!-- Senior DevOps & DevSecOps Enterprise Header Banner -->
 <img src="./assets/banner.svg" alt="Senior DevOps • DevSecOps Banner" width="100%" />
 
-<br/><br/>
 
-<table align="center" border="0" style="border: none; background: transparent;">
-  <tr style="border: none; background: transparent;">
-    <td align="center" width="160" style="border: none;">
-      <a href="https://github.com/kunjbihari-devops">
-        <img src="https://github.com/kunjbihari-devops.png" onerror="this.onerror=null; this.src='./assets/avatar.svg'" alt="Kunj Bihari" width="135" style="border-radius: 50%; border: 3px solid #38BDF8; box-shadow: 0 0 20px rgba(56, 189, 248, 0.45);" />
-      </a>
-    </td>
-    <td align="left" style="border: none; padding-left: 20px;">
-      <h1 style="margin: 0; font-size: 32px; font-weight: 800; letter-spacing: -0.5px;">Kunj Bihari</h1>
-      <h3 style="margin: 4px 0 8px 0; color: #2563EB; font-size: 19px;">Senior DevOps • DevSecOps • Enterprise Cloud Architect</h3>
-      <p style="margin: 0; font-size: 14px; color: #4B5563; line-height: 1.5;">
-        <b>Infra &amp; Application System Design</b> • <i>Landing Zones, Zero-Trust DevSecOps, 100+ Workload Migrations &amp; FinOps</i>
-      </p>
-    </td>
-  </tr>
-</table>
+
 
 <!-- Dynamic Animated Typing Header -->
 <p align="center">
@@ -799,14 +783,7 @@ Legend: A = Accountable (Final Signoff) | R = Responsible (Execution) | C = Cons
 
 ---
 
-## 📬 Connect & Collaborate
-
-Whether you are looking to drive a **large-scale enterprise cloud transformation**, modernize **complex multi-tier application architectures**, automate **enterprise-wide landing zones**, or optimize **multi-million dollar cloud expenditures**, let's connect!
-
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect_Professionally-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
-[![Email](https://img.shields.io/badge/Email-Get_in_Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kunjbihari1989singh@gmail.com)
-[![Schedule](https://img.shields.io/badge/Schedule-Technical_Consultation-107C41?style=for-the-badge&logo=microsoft-teams&logoColor=white)](#)
-
+  <h2>Kunj Bihari</h2>
 </div>
+
